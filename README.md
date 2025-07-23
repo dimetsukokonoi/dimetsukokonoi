@@ -11,7 +11,7 @@
       <td align="center" style="padding-right: 20px;">
         <h1>Hi 👋, I'm Mujtahidul Hasan Sami!</h1>
         <p><em>Competitive Programmer | Algorithm Enthusiast </em></p>
-        <p>A passionate <strong>C++ competitive programmer</strong> active on <a href="https://codeforces.com/profile/MizukiHiroshi" target="_blank">Codeforces</a>.</p>
+        <p>A passionate <strong>C++ competitive programmer</strong> active on <a href="https://codeforces.com" target="_blank">Codeforces</a>.</p>
       </td>
       <td align="center" valign="middle">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmltZ241eHl0cDU4YWljanY3ZW5tMjN3dHJ4OHR3cHlrdDRvODU1a2M4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx1Dex8w9wxL/giphy.gif" alt="Anime GIF" width="150px" />
@@ -46,7 +46,7 @@ I'm a dedicated problem-solver with a strong foundation in C++. My journey in co
 
 | Category     | Technologies/Tools                                                                     |
 | :----------- | :------------------------------------------------------------------------------------- |
-| **Languages** | [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://en.wikipedia.org/wiki/C%2B%2B) [<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>](https://en.wikipedia.org/wiki/Java_(programming_language)) |
+| **Languages** | [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://isocpp.org/) [<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>](https://www.java.com/en/) |
 | **IDEs**     | [<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>](https://code.visualstudio.com/) |
 | **Platforms**| [<img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8AC0?style=for-the-badge&logo=codeforces&logoColor=white"/>](https://codeforces.com) [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com) |
 
