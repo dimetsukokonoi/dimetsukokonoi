@@ -88,9 +88,12 @@ I'm a dedicated problem-solver with a strong foundation in C++. My journey in co
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mujtahidul-Hasan-Sami&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtahidul-Hasan-Sami&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimetsukokonoi&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimetsukokonoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
+
 
   <br />
   
