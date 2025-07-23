@@ -11,7 +11,7 @@
       <td align="center" style="padding-right: 20px;">
         <h1>Hi 👋, I'm Mujtahidul Hasan Sami!</h1>
         <p><em>Competitive Programmer | Algorithm Enthusiast </em></p>
-        <p>A passionate <strong>C++ competitive programmer</strong> active on <a href="https://codeforces.com" target="_blank">Codeforces</a>.</p>
+        <p>An undergraduate passionate <strong>C++ competitive programmer</strong> active on <a href="https://codeforces.com" target="_blank">Codeforces</a>.</p>
       </td>
       <td align="center" valign="middle">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmltZ241eHl0cDU4YWljanY3ZW5tMjN3dHJ4OHR3cHlrdDRvODU1a2M4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx1Dex8w9wxL/giphy.gif" alt="Anime GIF" width="150px" />
