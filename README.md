@@ -79,12 +79,6 @@ I'm a dedicated problem-solver with a strong foundation in C++. My journey in co
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mujtahidul-Hasan-Sami&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
