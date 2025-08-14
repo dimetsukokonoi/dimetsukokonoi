@@ -29,7 +29,7 @@ I'm a dedicated problem-solver with a strong foundation in C++. My journey in co
 - 💻 I primarily code in **C++**, also experienced with **Java**
 - 🏆 Actively participating in **Codeforces** contests
 - 💡 Love solving algorithmic problems and writing clean code
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently learning **Natural Language Processing**
 
 ---
 
@@ -119,7 +119,7 @@ I'm a dedicated problem-solver with a strong foundation in C++. My journey in co
 
 ### ✨ Featured Repositories
 
-- 🔥 [CPS_Bootcamp](https://github.com/Mujtahidul-Hasan-Sami/CPS_Bootcamp) — Competitive programming bootcamp problems and solutions  
+- 🔥 [CubeSAT](https://github.com/dimetsukokonoi/CubeSAT) — A mini-satellite project that collects data from space and sends it back to the user
 - 🌟 [Mujtahidul-Hasan-Sami](https://github.com/Mujtahidul-Hasan-Sami/Mujtahidul-Hasan-Sami) — GitHub Profile README with achievements & timeline
 
 ---
